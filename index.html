@@ -11,7 +11,7 @@
      <!-- ヘッダー -->
      <header>
          <!-- 1ロゴ -->
-         <a href="index.html" id="logo"><img src="images/logo.png" alt=""><nav>おすすめ料理URL!</nav></a>
+         <a href="https://recipe.rakuten.co.jp/recipe/1330034519/" id="logo"><img src="images/logo.png" alt=""><nav>おすすめ料理URL!</nav><br>簡単アップルパイ＊シナノスイート レシピ</br></a>
      </header>
      <main>
          <article>
