@@ -18,9 +18,11 @@
               <!-- メインビジュアル -->
               <section id="main-visual">
                  <div id="main-massage">
-                    <h1>今日はこれ！！</h1>
-                 </div>
-                 <img src="kind_05_img_main.png" alt="PCの周りに集まる多国籍の仲間たち">
+                     <img src="images\kind_05_img_main.jpg" alt="PCの周りに集まる多国籍の仲間たち">
+                    <h1>商品紹介</h1><br>
+                    <p>甘くてシャキシャキとした食感が特徴の、長野県を代表する品種の１つ。ジューシーさと濃厚な甘味が、子供から年配者まで、幅広い層に人気です。</p>
+                    <a href="https://www3.nhk.or.jp/news/html/20221010/k10013853991000.html"><p>長野県開発のりんご「シナノスイート」 出荷始まる</p><img src="images\VT.png" alt="長野県開発のりんご「シナノスイート」 出荷始まる"></a>
+    
               </section>
          </article>
          <footer>
