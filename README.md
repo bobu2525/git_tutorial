@@ -20,7 +20,7 @@
                  <div id="main-massage">
                     <h1>今日はこれ！！</h1>
                  </div>
-                 <img src="git_tutorial/images/kind_05_img_main.jpg" alt="PCの周りに集まる多国籍の仲間たち">
+                 <img src="images/kind_05_img_main.jpg" alt="PCの周りに集まる多国籍の仲間たち">
               </section>
          </article>
          <footer>
