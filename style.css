@@ -1,0 +1,78 @@
+/* pc.スマホ共通スタイル */
+body {
+  font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arual, sans-serif;
+}
+
+p {
+  font-size: 15px;
+}
+
+/* ===================
+Pc用のスタイル
+=====================*/
+@media screen and (min-width: 768px) {
+/* 横幅設定 */
+body {
+  max-width: 1080px;
+  min-width: 960px;
+
+}
+
+/* フッター */
+footer {
+  background-color: #0cbd15;
+  text-align: center;
+  padding: 80px 80px 30px 80px;
+}
+  
+#footer-logo {
+  margin-bottom: 10px;
+}
+
+#sns-footer {
+    margin-bottom: 10px;
+  
+    width: 100%;
+  }
+ 
+  #sns-footer > a {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  #copyright {
+    color: #ffffff;
+    float: right;
+  }
+}
+
+
+/*====================
+  スマートフォン用のスタイル
+  =====================*/
+  @media screen and (max-width: 767px) {
+  /* フッター */
+footer {
+    background-color: #0cbd15;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+  }
+    
+  #footer-logo {
+    margin-bottom: 10px;
+  }
+  
+  #sns-footer {
+      text-align: left;
+      width: 100%;
+    }
+   
+    #sns-footer > a {
+        width: 100%;
+    }
+    
+    #copyright {
+      color: #ffffff;
+      float: right;
+    }
+}
